@@ -18,7 +18,7 @@ Your contributions are very welcome! Please check the contribution guide in CONT
 
 ## Compatibility List
 
-For the detailed compatibility list, please refer to COMPATIBILITY.
+For the detailed compatibility list, please refer to [COMPATIBILITY.md](COMPATIBILITY.md).
 
 ---
 
