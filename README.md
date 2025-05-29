@@ -14,7 +14,7 @@ However, compatibility issues can arise. This project seeks to provide a central
 
 ## How to Contribute
 
-Your contributions are very welcome! Please check the contribution guide in CONTRIBUTING to learn how to add your observations.
+Your contributions are very welcome! Please check the contribution guide in [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to add your observations.
 
 ## Compatibility List
 
